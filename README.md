@@ -2,7 +2,7 @@
 
 A premium, production-ready coding interview preparation platform featuring a comprehensive database of 2,913 LeetCode problems with instant search, live code execution, and an Apple-inspired Swiss Minimalism design.
 
-![CodeSearch Pro](https://code-search-pro.vercel.app/)
+LINK: https://code-search-pro.vercel.app/
 
 ## ✨ Key Features
 
